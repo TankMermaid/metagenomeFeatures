@@ -2,7 +2,7 @@
 % Please edit documentation in R/aggregate_taxa.R
 \name{taxa_levels}
 \alias{taxa_levels}
-\title{Accessior function for taxanomic levels in MRexperiment featureData}
+\title{Accessor function for taxonomic levels in MRexperiment featureData}
 \usage{
 taxa_levels(obj)
 }
@@ -13,11 +13,10 @@ taxa_levels(obj)
 character vector with taxonomic levels
 }
 \description{
-Accessior function for taxanomic levels in MRexperiment featureData
+Accessor function for taxonomic levels in MRexperiment featureData
 }
 \examples{
 # not run
 # data("mouseData", package = "metagenomeSeq")
 # taxa_levels(mouseData)
 }
-
