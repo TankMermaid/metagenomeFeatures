@@ -75,6 +75,7 @@
 
 
 
+
 #' Annotating metagenome data with taxonomic information
 #'
 #' This method is used to create a \linkS4class{mgFeatures} class
