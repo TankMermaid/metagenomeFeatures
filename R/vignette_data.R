@@ -25,11 +25,11 @@ vignette_mock_MgDb <- function(){
         Biostrings::readDNAStringSet()
 
     new("MgDb",
-            seq = db_seq,
-            taxa_file = system.file("extdata", "mock_MgDb_taxa.sqlite",
-                                    package="metagenomeFeatures"),
-            tree_file = "not available",
-            # tree_file = system.file("extdata","msd16s_MgDb_tree.rds",
-            #                        package="metagenomeFeatures"),
-            metadata = metadata)
+        seq = db_seq,
+        taxa_file = system.file("extdata", "mock_MgDb_taxa.sqlite",
+                                package="metagenomeFeatures"),
+        tree_file = "not available",
+        # tree_file = system.file("extdata","msd16s_MgDb_tree.rds",
+        #                        package="metagenomeFeatures"),
+        metadata = metadata)
 }
