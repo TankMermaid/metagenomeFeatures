@@ -36,4 +36,3 @@ column wise matrix calculations, e.g. colMeans, colMedians.
 # aggregateByTaxonomy(mouseData,lvl="class",norm=TRUE,aggfun=colMedians)
 # aggTax(mouseData,lvl='phylum',norm=FALSE,aggfun=colSums)
 }
-

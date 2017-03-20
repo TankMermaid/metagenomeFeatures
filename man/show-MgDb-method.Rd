@@ -13,4 +13,3 @@
 \description{
 Display summary of MgDb-class object
 }
-

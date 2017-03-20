@@ -56,4 +56,3 @@ mgDb_select(demoMgDb, type = "all",
        keys = c("Vibrionaceae", "Enterobacteriaceae"),
        keytype = "Family")
 }
-

@@ -23,4 +23,3 @@ Same function as \code{\link{taxa_keytypes}}.
 demoMgDb <- get_demoMgDb()
 taxa_columns(demoMgDb)
 }
-

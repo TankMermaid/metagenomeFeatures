@@ -20,4 +20,3 @@ Accessor function for taxonomic levels in MRexperiment featureData
 # data("mouseData", package = "metagenomeSeq")
 # taxa_levels(mouseData)
 }
-
